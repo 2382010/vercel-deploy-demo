@@ -1,7 +1,7 @@
 
 const Home = () => {
   return (
-    <p>Poda Alvien Damanik</p>
+    <p>Timothy Pakpahan</p>
   )
 }
 
